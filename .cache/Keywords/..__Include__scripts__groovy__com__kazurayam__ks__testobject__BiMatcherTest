@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2A5DBEB25CAFF187EB3EA1501680F070",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.testobject.BiMatcherTest",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
